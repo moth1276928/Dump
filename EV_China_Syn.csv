@@ -1,0 +1,58 @@
+Year,Brand,Model,Type,Sales,Market Share (%),Price (RMB),Region
+2022, Tesla, Model 3, BEV, 100000, 25.0, 299000, East
+2022, Tesla, Model Y, BEV, 80000, 20.0, 315000, East
+2022, Tesla, Model S, BEV, 20000, 5.0, 739000, North
+2022, Tesla, Model X, BEV, 15000, 3.8, 880000, North
+2022, BYD, Han EV, BEV, 80000, 20.0, 290000, South
+2022, BYD, Tang EV, BEV, 60000, 15.0, 300000, South
+2022, BYD, Dolphin, BEV, 50000, 12.5, 150000, East
+2022, BYD, Atto 3 (Yuan Plus), BEV, 40000, 10.0, 160000, East
+2022, BYD, Seal, BEV, 30000, 7.5, 220000, North
+2022, NIO, ES6, BEV, 70000, 17.5, 358000, North
+2022, NIO, ES8, BEV, 30000, 7.5, 468000, North
+2022, NIO, EC6, BEV, 25000, 6.0, 328000, East
+2022, NIO, ET7, BEV, 15000, 3.8, 498000, South
+2022, Xpeng, P7, BEV, 50000, 12.5, 250000, East
+2022, Xpeng, G3, BEV, 35000, 8.8, 220000, South
+2022, Xpeng, P5, BEV, 20000, 5.0, 190000, East
+2022, Li Auto, Li One, PHEV, 45000, 11.2, 328000, South
+2022, Li Auto, Li L9, PHEV, 15000, 3.8, 460000, North
+2022, Li Auto, Li X, PHEV, 10000, 2.5, 350000, East
+2023, Tesla, Model 3, BEV, 120000, 26.0, 299000, East
+2023, Tesla, Model Y, BEV, 90000, 21.0, 315000, East
+2023, Tesla, Model S, BEV, 25000, 5.5, 739000, North
+2023, Tesla, Model X, BEV, 20000, 4.4, 880000, North
+2023, BYD, Han EV, BEV, 90000, 21.0, 290000, South
+2023, BYD, Tang EV, BEV, 70000, 16.0, 300000, South
+2023, BYD, Dolphin, BEV, 60000, 14.0, 150000, East
+2023, BYD, Atto 3 (Yuan Plus), BEV, 50000, 11.0, 160000, East
+2023, BYD, Seal, BEV, 35000, 8.0, 220000, North
+2023, NIO, ES6, BEV, 75000, 16.5, 358000, North
+2023, NIO, ES8, BEV, 35000, 8.0, 468000, North
+2023, NIO, EC6, BEV, 30000, 7.0, 328000, East
+2023, NIO, ET7, BEV, 20000, 4.4, 498000, South
+2023, Xpeng, P7, BEV, 60000, 13.0, 250000, East
+2023, Xpeng, G3, BEV, 40000, 9.0, 220000, South
+2023, Xpeng, P5, BEV, 25000, 5.5, 190000, East
+2023, Li Auto, Li One, PHEV, 50000, 11.0, 328000, South
+2023, Li Auto, Li L9, PHEV, 20000, 4.4, 460000, North
+2023, Li Auto, Li X, PHEV, 12000, 2.7, 350000, East
+2024, Tesla, Model 3, BEV, 130000, 27.0, 299000, East
+2024, Tesla, Model Y, BEV, 100000, 22.0, 315000, East
+2024, Tesla, Model S, BEV, 30000, 6.0, 739000, North
+2024, Tesla, Model X, BEV, 25000, 5.0, 880000, North
+2024, BYD, Han EV, BEV, 95000, 22.0, 290000, South
+2024, BYD, Tang EV, BEV, 75000, 17.0, 300000, South
+2024, BYD, Dolphin, BEV, 70000, 16.0, 150000, East
+2024, BYD, Atto 3 (Yuan Plus), BEV, 55000, 12.0, 160000, East
+2024, BYD, Seal, BEV, 40000, 9.0, 220000, North
+2024, NIO, ES6, BEV, 80000, 17.0, 358000, North
+2024, NIO, ES8, BEV, 40000, 9.0, 468000, North
+2024, NIO, EC6, BEV, 35000, 8.0, 328000, East
+2024, NIO, ET7, BEV, 25000, 5.5, 498000, South
+2024, Xpeng, P7, BEV, 65000, 14.0, 250000, East
+2024, Xpeng, G3, BEV, 45000, 10.0, 220000, South
+2024, Xpeng, P5, BEV, 30000, 7.0, 190000, East
+2024, Li Auto, Li One, PHEV, 55000, 12.0, 328000, South
+2024, Li Auto, Li L9, PHEV, 25000, 5.0, 460000, North
+2024, Li Auto, Li X, PHEV, 15000, 3.3, 350000, East
